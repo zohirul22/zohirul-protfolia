@@ -21,11 +21,17 @@ h1{
     color: coral;
 }
 
-section{
+.Devoloper {
     display: flex;
 }
+.asha{
+   background-image: url(img/love2.ong.jpeg); 
+}
 
+p{
 
+    text-align: justify;
+}
 
 .shahin{
    width: 50%; 
@@ -49,4 +55,66 @@ font-size: 30px;
 background-image: radial-gradient(rgb(146, 27, 5),rgb(0, 132, 255));
 color: aliceblue;
 
+}
+
+.popy{
+
+margin-right: 20px;
+
+}
+
+h3{
+    color: blueviolet;
+}
+h2{
+font-size: 35px;
+color: rgb(13, 0, 128);
+
+}
+
+.afsana{
+    padding: 10px;
+box-shadow:10px 10px 40px gray ;
+border-radius: 5px;
+width: 40%;
+margin-right: 5%;
+margin-left: 5%;
+
+
+
+}
+.ami{
+    margin-left: 20px;
+}
+
+#name{
+border-left: 7px solid ;
+border-image: linear-gradient( yellow,blue);
+border-image-slice: 1;
+
+}
+
+#sonar{
+    border-left: 7px solid ;
+    border-image: linear-gradient( rgb(0, 204, 255),rgb(212, 81, 224));
+    border-image-slice: 1;
+    
+    }
+
+
+.Expriences{
+
+background-image: url(img/pexels-photo-1172849.jpeg);
+background-size: cover;
+
+}
+
+footer p{
+text-align: center;
+margin-top: 30px;
+background-image: linear-gradient(blue,green,navy,rgb(0, 195, 255));
+padding: 25px;
+font-weight: bolder;
+font-size: 25px;
+color: azure;
 }
